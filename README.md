@@ -1,1 +1,1 @@
-# responsive-navbar-sticky-html-css-and-javascript
+# Responsive-navbar-sticky-html-css-and-javascript
